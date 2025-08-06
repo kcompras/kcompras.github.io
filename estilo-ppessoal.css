@@ -1,10 +1,16 @@
-header footer nav main {
+header {
   border: 1px solid;
+  background-color: antiquewhite;
+}
+
+footer {
+    border: 1px dotted;
+    background-color: beige;
 }
 
 
 body {
-  background-color: aquamarine;
+  background-color: #909090;
   color:black;
   font-family: Arial, Helvetica, sans-serif;
 }
